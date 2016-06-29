@@ -1,0 +1,14 @@
+{
+  "name": "puppet-winimagebuilder",
+  "version": "0.1.0",
+  "author": "Peter J. Pouliot <peter@pouliot.net>",
+  "summary": "A puppet module to deploy the Cloudbase Solutions WinImageBuilder Scripts for generating windows cloud images.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ppouliot/puppet-winimagebuilder",
+  "project_page": "https://github.com/ppouliot/puppet-winimagebuilder",
+  "issues_url": "https://github.com/ppouliot/puppet-winimagebuilder/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
